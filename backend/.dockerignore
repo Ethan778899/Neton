@@ -1,0 +1,6 @@
+/.git
+/.vscode
+/dist
+/logs
+/node_modules
+README.md
